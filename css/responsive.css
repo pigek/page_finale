@@ -1,0 +1,549 @@
+@media (max-width: 800px) {
+
+.motifs1, .motifs2, .motifs3, .motifs4, .motifs5, .motifs6{
+  position: absolute;          
+  object-fit: cover;
+  transform: rotate(0deg);
+  width: 156%;
+  top: 28%;
+  left: -5%;}
+
+/*debut point sur mobile hidden mais believe ils vont apparaitre*/
+.svg14{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 20%;
+  top: 30%;
+  right: 22%;
+}
+
+.svg1{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 44%;
+  right: 46%;
+}
+
+
+.svg2{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 33%;
+  right: 47%;
+}
+.svg3{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 48%;
+  right: 33%;
+}
+.svg4{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 4.6%;
+  top: 37%;
+  right: 12%;
+}
+
+.svg5{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 4.6%;
+  top: 37%;
+  right: 33%;
+}
+.svg6{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 46%;
+  right: 33%;
+}
+.svg7{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 38%;
+  right: 39.5%;
+}
+.svg8{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 52%;
+  right: 33.5%;
+}
+.svg9{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 39%;
+  right: 41%;
+}
+.svg10{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 49%;
+  right: 57.4%;
+}
+.svg11{
+  visibility:hidden;
+  position: absolute;
+      object-fit: cover;
+      width: 2.6%;
+      top: 29%;
+      right: 26%;
+}
+
+/*fin zone point sur mobile*/
+
+.svg12{
+  visibility:hidden;
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 40%;
+  right: 80%;
+}
+.svg13{
+  visibility:hidden;
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 10%;
+  right: 85%;
+}
+
+
+.svg15{
+  visibility:hidden;
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 10%;
+  top: 6cqb;
+  right: 10%;
+}
+
+.svg13{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.6%;
+  top: 3%;
+  right: 8%;
+}
+.svg16{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.9%;
+  top: 5%;
+  right: 14%;
+}
+.svg17{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 11%;
+  right: 15%;
+}
+.svg18{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 16.5%;
+  right: 10%;
+}
+
+.svg19{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 1%;
+  right: 11%;
+}
+.svg20{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 19%;
+  right: 14%;
+}
+
+.svg21{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 4.6%;
+  top: 19%;
+  right: 14%;
+}
+.svg22{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3%;
+  top: 16.5%;
+  right: 13%;
+}
+.svg23{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 22%;
+  right: 13%;
+}
+.svg24{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3%;
+  top: 16%;
+  right: 16%;
+}
+.svg25{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 16%;
+  right: 9%;
+}
+.svg26{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3.4%;
+  top: 12%;
+  right: 8%;
+}
+.svg27{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 1.5%;
+  top: 16%;
+  right: 8%;
+}
+.svg28{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 1.5%;
+  top: 10%;
+  right: 15.2%;
+}
+  
+}
+
+@media (max-width: 1000px) and (min-width: 800px) {
+  main {
+    background-color: white;
+    
+    
+    }
+    .motifs1, .motifs2, .motifs3, .motifs4, .motifs5, .motifs6  {
+      position: absolute;
+      object-fit: cover;
+      transform: rotate(0deg);
+      width: 135%;
+      top: -40%;
+      left: -5%;
+    
+    }
+    .motifs4r2, .motifs5r2, .motifs6r2 {
+    position: absolute;
+    object-fit: cover;
+    transform: rotate(3deg);
+    width: 124%;
+    top: -83%;
+    right: -51%;
+    }
+
+  /*gros pont rouge centre*/
+  .svg14{
+    
+    position: absolute;
+    object-fit: cover;
+    width: -10%;
+    top: 30%;
+    right: 40%;
+  }
+
+
+.svg1{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 2.4%;
+  top: 16%;
+  right: 46%;
+    }
+
+
+.svg2{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 8%;
+  right: 79%;
+}
+.svg3{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 48%;
+  right: 33%;
+}
+.svg4{
+ 
+  position: absolute;
+  object-fit: cover;
+  width: 3.6%;
+  top: 80%;
+  right: 27%;
+}
+
+.svg5{
+ 
+  position: absolute;
+  object-fit: cover;
+  width: 4.6%;
+  top: 37%;
+  right: 33%;
+}
+.svg6{
+ 
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 58%;
+  right: 33%;
+}
+.svg7{
+ 
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 38%;
+  right: 45.5%;
+}
+.svg8{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 56%;
+  right: 39.5%;
+}
+.svg9{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 39%;
+  right: 41%;
+}
+.svg10{
+  
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 49%;
+  right: 57.4%;
+}
+.svg11{
+  
+  position: absolute;
+      object-fit: cover;
+      width: 2.6%;
+      top: 44%;
+      right: 31%;
+}
+
+/*fin zone point sur mobile*/
+
+.svg12{
+  
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 40%;
+  right: 80%;
+}
+.svg13{
+  
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 10%;
+  right: 85%;
+}
+
+
+.svg15{
+  visibility:hidden;
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 10%;
+  top: 6cqb;
+  right: 10%;
+}
+
+.svg13{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.6%;
+  top: 3%;
+  right: 8%;
+}
+.svg16{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.9%;
+  top: 5%;
+  right: 14%;
+}
+.svg17{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 11%;
+  right: 15%;
+}
+.svg18{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 16.5%;
+  right: 10%;
+}
+
+.svg19{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 1%;
+  right: 11%;
+}
+.svg20{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 5.4%;
+  top: 19%;
+  right: 14%;
+}
+
+.svg21{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 4.6%;
+  top: 19%;
+  right: 14%;
+}
+.svg22{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3%;
+  top: 16.5%;
+  right: 13%;
+}
+.svg23{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2%;
+  top: 22%;
+  right: 13%;
+}
+.svg24{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3%;
+  top: 16%;
+  right: 16%;
+}
+.svg25{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 2.6%;
+  top: 16%;
+  right: 9%;
+}
+.svg26{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 3.4%;
+  top: 12%;
+  right: 8%;
+}
+.svg27{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 1.5%;
+  top: 16%;
+  right: 8%;
+}
+.svg28{
+  visibility:hidden;
+  position: absolute;
+  object-fit: cover;
+  width: 1.5%;
+  top: 10%;
+  right: 15.2%;
+}
+ 
+  }
+  
+
+
+@media (min-width: 1800px) {
+  main {
+    background-color: white;
+
+    }
+    
+    
+  }
+
+
